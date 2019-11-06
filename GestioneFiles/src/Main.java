@@ -15,7 +15,8 @@ import java.io.FileWriter;
 		}
 		
 		public static void main(String[] args) {
-			
+		
+			String n = null;
 		  File myObj = new File("filediprova.txt");
 	  
 	  System.out.println("File name: " + myObj.getName());
